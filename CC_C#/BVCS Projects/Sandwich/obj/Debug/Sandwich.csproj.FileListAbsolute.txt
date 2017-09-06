@@ -1,0 +1,16 @@
+C:\BeginVCSE\BVCSE Projects\Sandwich\obj\Debug\Sandwich.exe
+C:\BeginVCSE\BVCSE Projects\Sandwich\obj\Debug\Sandwich.pdb
+C:\BeginVCSE\BVCSE Projects\Sandwich\bin\Debug\Sandwich.exe
+C:\BeginVCSE\BVCSE Projects\Sandwich\bin\Debug\Sandwich.pdb
+C:\BeginVCSE\BVCSE Projects\Sandwich\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVCSE\BVCSE Projects\Sandwich\obj\Debug\Sandwich.Form1.resources
+C:\BeginVCSE\BVCSE Projects\Sandwich\obj\Debug\Sandwich.Properties.Resources.resources
+C:\BeginVCSE\BVCSE Projects\Sandwich\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVCSE\BVCSE Projects\Sandwich\obj\Debug\GenerateResource.write.1.tlog
+C:\BeginVCS\BVCS Projects\Sandwich\obj\Debug\Sandwich.exe
+C:\BeginVCS\BVCS Projects\Sandwich\obj\Debug\Sandwich.pdb
+C:\BeginVCS\BVCS Projects\Sandwich\bin\Debug\Sandwich.exe
+C:\BeginVCS\BVCS Projects\Sandwich\bin\Debug\Sandwich.pdb
+C:\BeginVCS\BVCS Projects\Sandwich\obj\Debug\Sandwich.Form1.resources
+C:\BeginVCS\BVCS Projects\Sandwich\obj\Debug\Sandwich.Properties.Resources.resources
+C:\BeginVCS\BVCS Projects\Sandwich\obj\Debug\Sandwich.csproj.GenerateResource.Cache

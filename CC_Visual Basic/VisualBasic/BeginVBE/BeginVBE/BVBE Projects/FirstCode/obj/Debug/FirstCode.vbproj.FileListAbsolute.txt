@@ -1,0 +1,24 @@
+C:\BeginVBE\BVBE Projects\FirstCode\obj\Debug\FirstCode.exe
+C:\BeginVBE\BVBE Projects\FirstCode\obj\Debug\FirstCode.xml
+C:\BeginVBE\BVBE Projects\FirstCode\obj\Debug\FirstCode.pdb
+C:\BeginVBE\BVBE Projects\FirstCode\bin\Debug\FirstCode.exe
+C:\BeginVBE\BVBE Projects\FirstCode\bin\Debug\FirstCode.pdb
+C:\BeginVBE\BVBE Projects\FirstCode\bin\Debug\FirstCode.xml
+C:\BeginVBE\BVBE Projects\FirstCode\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVBE\BVBE Projects\FirstCode\obj\Debug\FirstCode.Form1.resources
+C:\BeginVBE\BVBE Projects\FirstCode\obj\Debug\FirstCode.Resources.resources
+C:\BeginVBE\BVBE Projects\FirstCode\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVBE\BVBE Projects\FirstCode\obj\Debug\GenerateResource.write.1.tlog
+D:\Users\New folder\Compucamp 2017\ej dropboix\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\FirstCode\obj\Debug\FirstCode.exe
+D:\Users\New folder\Compucamp 2017\ej dropboix\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\FirstCode\obj\Debug\FirstCode.xml
+D:\Users\New folder\Compucamp 2017\ej dropboix\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\FirstCode\obj\Debug\FirstCode.pdb
+D:\Users\New folder\Compucamp 2017\ej dropboix\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\FirstCode\bin\Debug\FirstCode.exe
+D:\Users\New folder\Compucamp 2017\ej dropboix\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\FirstCode\bin\Debug\FirstCode.pdb
+D:\Users\New folder\Compucamp 2017\ej dropboix\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\FirstCode\bin\Debug\FirstCode.xml
+D:\Users\New folder\Compucamp 2017\ej dropboix\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\FirstCode\obj\Debug\FirstCode.Form1.resources
+D:\Users\New folder\Compucamp 2017\ej dropboix\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\FirstCode\obj\Debug\FirstCode.Resources.resources
+D:\Users\New folder\Compucamp 2017\ej dropboix\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\FirstCode\obj\Debug\FirstCode.vbproj.GenerateResource.Cache
+D:\Users\New folder\Compucamp 2017\ej dropboix\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\FirstCode\obj\Debug\FirstCode.vbprojResolveAssemblyReference.cache
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\FirstCode\obj\Debug\FirstCode.exe
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\FirstCode\obj\Debug\FirstCode.xml
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\FirstCode\obj\Debug\FirstCode.pdb

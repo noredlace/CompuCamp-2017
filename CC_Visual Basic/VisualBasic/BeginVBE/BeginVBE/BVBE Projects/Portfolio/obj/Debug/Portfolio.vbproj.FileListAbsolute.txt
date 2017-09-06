@@ -1,0 +1,11 @@
+C:\BeginVBE\BVBE Projects\Portfolio\obj\Debug\Portfolio.exe
+C:\BeginVBE\BVBE Projects\Portfolio\obj\Debug\Portfolio.xml
+C:\BeginVBE\BVBE Projects\Portfolio\obj\Debug\Portfolio.pdb
+C:\BeginVBE\BVBE Projects\Portfolio\bin\Debug\Portfolio.exe
+C:\BeginVBE\BVBE Projects\Portfolio\bin\Debug\Portfolio.pdb
+C:\BeginVBE\BVBE Projects\Portfolio\bin\Debug\Portfolio.xml
+C:\BeginVBE\BVBE Projects\Portfolio\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVBE\BVBE Projects\Portfolio\obj\Debug\Portfolio.Form1.resources
+C:\BeginVBE\BVBE Projects\Portfolio\obj\Debug\Portfolio.Resources.resources
+C:\BeginVBE\BVBE Projects\Portfolio\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVBE\BVBE Projects\Portfolio\obj\Debug\GenerateResource.write.1.tlog

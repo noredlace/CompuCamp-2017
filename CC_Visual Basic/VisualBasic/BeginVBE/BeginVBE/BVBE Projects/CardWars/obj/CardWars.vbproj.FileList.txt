@@ -1,0 +1,10 @@
+obj\Debug\CardWars.exe
+obj\Debug\CardWars.xml
+obj\Debug\CardWars.pdb
+bin\Debug\CardWars.exe
+bin\Debug\CardWars.pdb
+bin\Debug\CardWars.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CardWars.Form1.resources
+obj\Debug\CardWars.Resources.resources
+obj\Debug\CardWars.vbproj.GenerateResource.Cache

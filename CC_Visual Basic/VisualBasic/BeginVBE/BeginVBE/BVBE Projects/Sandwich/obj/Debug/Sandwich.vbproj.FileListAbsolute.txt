@@ -1,0 +1,19 @@
+C:\BeginVBE\BVBE Projects\Sandwich\obj\Debug\Sandwich.exe
+C:\BeginVBE\BVBE Projects\Sandwich\obj\Debug\Sandwich.xml
+C:\BeginVBE\BVBE Projects\Sandwich\obj\Debug\Sandwich.pdb
+C:\BeginVBE\BVBE Projects\Sandwich\bin\Debug\Sandwich.exe
+C:\BeginVBE\BVBE Projects\Sandwich\bin\Debug\Sandwich.pdb
+C:\BeginVBE\BVBE Projects\Sandwich\bin\Debug\Sandwich.xml
+C:\BeginVBE\BVBE Projects\Sandwich\obj\Debug\Sandwich.Form1.resources
+C:\BeginVBE\BVBE Projects\Sandwich\obj\Debug\Sandwich.Resources.resources
+C:\BeginVBE\BVBE Projects\Sandwich\obj\Debug\Sandwich.vbproj.GenerateResource.Cache
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sandwich\obj\Debug\Sandwich.exe
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sandwich\obj\Debug\Sandwich.xml
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sandwich\obj\Debug\Sandwich.pdb
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sandwich\bin\Debug\Sandwich.exe
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sandwich\bin\Debug\Sandwich.pdb
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sandwich\bin\Debug\Sandwich.xml
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sandwich\obj\Debug\Sandwich.vbprojResolveAssemblyReference.cache
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sandwich\obj\Debug\Sandwich.Form1.resources
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sandwich\obj\Debug\Sandwich.Resources.resources
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sandwich\obj\Debug\Sandwich.vbproj.GenerateResource.Cache

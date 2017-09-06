@@ -1,0 +1,21 @@
+C:\BeginVCSE\BVCSE Projects\RGBColors\obj\Debug\RGBColors.exe
+C:\BeginVCSE\BVCSE Projects\RGBColors\obj\Debug\RGBColors.pdb
+C:\BeginVCSE\BVCSE Projects\RGBColors\bin\Debug\RGBColors.exe
+C:\BeginVCSE\BVCSE Projects\RGBColors\bin\Debug\RGBColors.pdb
+C:\BeginVCSE\BVCSE Projects\RGBColors\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVCSE\BVCSE Projects\RGBColors\obj\Debug\RGBColors.Properties.Resources.resources
+C:\BeginVCSE\BVCSE Projects\RGBColors\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVCSE\BVCSE Projects\RGBColors\obj\Debug\GenerateResource.write.1.tlog
+C:\BeginVCS\BVCS Projects\RGBColors\obj\Debug\RGBColors.exe
+C:\BeginVCS\BVCS Projects\RGBColors\obj\Debug\RGBColors.pdb
+C:\BeginVCS\BVCS Projects\RGBColors\bin\Debug\RGBColors.exe
+C:\BeginVCS\BVCS Projects\RGBColors\bin\Debug\RGBColors.pdb
+C:\BeginVCS\BVCS Projects\RGBColors\obj\Debug\RGBColors.Properties.Resources.resources
+C:\BeginVCS\BVCS Projects\RGBColors\obj\Debug\RGBColors.csproj.GenerateResource.Cache
+E:\Compucamp 2017\CC_C#\BVCS Projects\RGBColors\obj\Debug\RGBColors.exe
+E:\Compucamp 2017\CC_C#\BVCS Projects\RGBColors\obj\Debug\RGBColors.pdb
+E:\Compucamp 2017\CC_C#\BVCS Projects\RGBColors\bin\Debug\RGBColors.exe
+E:\Compucamp 2017\CC_C#\BVCS Projects\RGBColors\bin\Debug\RGBColors.pdb
+E:\Compucamp 2017\CC_C#\BVCS Projects\RGBColors\obj\Debug\RGBColors.csprojResolveAssemblyReference.cache
+E:\Compucamp 2017\CC_C#\BVCS Projects\RGBColors\obj\Debug\RGBColors.Properties.Resources.resources
+E:\Compucamp 2017\CC_C#\BVCS Projects\RGBColors\obj\Debug\RGBColors.csproj.GenerateResource.Cache

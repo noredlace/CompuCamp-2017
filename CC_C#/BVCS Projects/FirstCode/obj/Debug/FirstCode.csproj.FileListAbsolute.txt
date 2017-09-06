@@ -1,0 +1,17 @@
+C:\BeginVCSE\BVCSE Projects\FirstCode\obj\Debug\FirstCode.exe
+C:\BeginVCSE\BVCSE Projects\FirstCode\obj\Debug\FirstCode.pdb
+C:\BeginVCSE\BVCSE Projects\FirstCode\bin\Debug\FirstCode.exe
+C:\BeginVCSE\BVCSE Projects\FirstCode\bin\Debug\FirstCode.pdb
+C:\BeginVCSE\BVCSE Projects\FirstCode\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVCSE\BVCSE Projects\FirstCode\obj\Debug\FirstCode.Properties.Resources.resources
+C:\BeginVCSE\BVCSE Projects\FirstCode\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVCSE\BVCSE Projects\FirstCode\obj\Debug\GenerateResource.write.1.tlog
+C:\BeginVCSE\BVCSE Projects\FirstCode\obj\Debug\FirstCode.Form1.resources
+C:\BeginVCS\BVCS Projects\FirstCode\obj\Debug\FirstCode.exe
+C:\BeginVCS\BVCS Projects\FirstCode\obj\Debug\FirstCode.pdb
+C:\BeginVCS\BVCS Projects\FirstCode\bin\Debug\FirstCode.exe
+C:\BeginVCS\BVCS Projects\FirstCode\bin\Debug\FirstCode.pdb
+C:\BeginVCS\BVCS Projects\FirstCode\obj\Debug\FirstCode.csprojResolveAssemblyReference.cache
+C:\BeginVCS\BVCS Projects\FirstCode\obj\Debug\FirstCode.Form1.resources
+C:\BeginVCS\BVCS Projects\FirstCode\obj\Debug\FirstCode.Properties.Resources.resources
+C:\BeginVCS\BVCS Projects\FirstCode\obj\Debug\FirstCode.csproj.GenerateResource.Cache

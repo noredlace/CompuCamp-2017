@@ -1,0 +1,10 @@
+obj\Debug\Portfolio.exe
+obj\Debug\Portfolio.xml
+obj\Debug\Portfolio.pdb
+bin\Debug\Portfolio.exe
+bin\Debug\Portfolio.pdb
+bin\Debug\Portfolio.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Portfolio.Form1.resources
+obj\Debug\Portfolio.Resources.resources
+obj\Debug\Portfolio.vbproj.GenerateResource.Cache

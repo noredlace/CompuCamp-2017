@@ -1,0 +1,7 @@
+obj\Debug\Conversion.exe
+obj\Debug\Conversion.pdb
+.\bin\Debug\Conversion.exe
+.\bin\Debug\Conversion.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Conversion.Properties.Resources.resources
+obj\Debug\Conversion.csproj.GenerateResource.Cache

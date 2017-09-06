@@ -1,0 +1,10 @@
+obj\Debug\FormFun.exe
+obj\Debug\FormFun.xml
+obj\Debug\FormFun.pdb
+bin\Debug\FormFun.exe
+bin\Debug\FormFun.pdb
+bin\Debug\FormFun.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FormFun.Form1.resources
+obj\Debug\FormFun.Resources.resources
+obj\Debug\FormFun.vbproj.GenerateResource.Cache

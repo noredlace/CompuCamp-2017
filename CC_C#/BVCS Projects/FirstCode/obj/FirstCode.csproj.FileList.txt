@@ -1,0 +1,7 @@
+obj\Debug\FirstCode.exe
+obj\Debug\FirstCode.pdb
+.\bin\Debug\FirstCode.exe
+.\bin\Debug\FirstCode.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FirstCode.Properties.Resources.resources
+obj\Debug\FirstCode.csproj.GenerateResource.Cache

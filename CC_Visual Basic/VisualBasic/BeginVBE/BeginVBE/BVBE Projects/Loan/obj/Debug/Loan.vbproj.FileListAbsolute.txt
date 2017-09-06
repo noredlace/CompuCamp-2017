@@ -1,0 +1,11 @@
+C:\BeginVBE\BVBE Projects\Loan\obj\Debug\Loan.exe
+C:\BeginVBE\BVBE Projects\Loan\obj\Debug\Loan.xml
+C:\BeginVBE\BVBE Projects\Loan\obj\Debug\Loan.pdb
+C:\BeginVBE\BVBE Projects\Loan\bin\Debug\Loan.exe
+C:\BeginVBE\BVBE Projects\Loan\bin\Debug\Loan.pdb
+C:\BeginVBE\BVBE Projects\Loan\bin\Debug\Loan.xml
+C:\BeginVBE\BVBE Projects\Loan\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVBE\BVBE Projects\Loan\obj\Debug\Loan.Form1.resources
+C:\BeginVBE\BVBE Projects\Loan\obj\Debug\Loan.Resources.resources
+C:\BeginVBE\BVBE Projects\Loan\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVBE\BVBE Projects\Loan\obj\Debug\GenerateResource.write.1.tlog

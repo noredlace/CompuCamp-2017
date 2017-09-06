@@ -1,0 +1,11 @@
+C:\BeginVBE\BVBE Projects\Checkbook\obj\Debug\Checkbook.exe
+C:\BeginVBE\BVBE Projects\Checkbook\obj\Debug\Checkbook.xml
+C:\BeginVBE\BVBE Projects\Checkbook\obj\Debug\Checkbook.pdb
+C:\BeginVBE\BVBE Projects\Checkbook\bin\Debug\Checkbook.exe
+C:\BeginVBE\BVBE Projects\Checkbook\bin\Debug\Checkbook.pdb
+C:\BeginVBE\BVBE Projects\Checkbook\bin\Debug\Checkbook.xml
+C:\BeginVBE\BVBE Projects\Checkbook\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVBE\BVBE Projects\Checkbook\obj\Debug\Checkbook.Form1.resources
+C:\BeginVBE\BVBE Projects\Checkbook\obj\Debug\Checkbook.Resources.resources
+C:\BeginVBE\BVBE Projects\Checkbook\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVBE\BVBE Projects\Checkbook\obj\Debug\GenerateResource.write.1.tlog

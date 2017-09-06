@@ -1,0 +1,24 @@
+C:\BeginVCSE\BVCSE Projects\Sample\obj\Debug\Sample.exe
+C:\BeginVCSE\BVCSE Projects\Sample\obj\Debug\Sample.pdb
+C:\BeginVCSE\BVCSE Projects\Sample\bin\Debug\Sample.exe
+C:\BeginVCSE\BVCSE Projects\Sample\bin\Debug\Sample.pdb
+C:\BeginVCSE\BVCSE Projects\Sample\obj\Debug\Sample.Form1.resources
+C:\BeginVCSE\BVCSE Projects\Sample\obj\Debug\Sample.Properties.Resources.resources
+C:\BeginVCSE\BVCSE Projects\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+C:\BeginVCSE\BVCSE Projects\Sample\obj\Debug\Sample.csproj.GenerateResource.Cache
+C:\BeginVCS\BVCS Projects\Sample\obj\Debug\Sample.exe
+C:\BeginVCS\BVCS Projects\Sample\obj\Debug\Sample.pdb
+C:\BeginVCS\BVCS Projects\Sample\bin\Debug\Sample.exe
+C:\BeginVCS\BVCS Projects\Sample\bin\Debug\Sample.pdb
+C:\BeginVCS\BVCS Projects\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+C:\BeginVCS\BVCS Projects\Sample\obj\Debug\Sample.Form1.resources
+C:\BeginVCS\BVCS Projects\Sample\obj\Debug\Sample.Properties.Resources.resources
+C:\BeginVCS\BVCS Projects\Sample\obj\Debug\Sample.csproj.GenerateResource.Cache
+E:\Compucamp 2017\CC_C#\BVCS Projects\Sample\obj\Debug\Sample.exe
+E:\Compucamp 2017\CC_C#\BVCS Projects\Sample\obj\Debug\Sample.pdb
+E:\Compucamp 2017\CC_C#\BVCS Projects\Sample\bin\Debug\Sample.exe
+E:\Compucamp 2017\CC_C#\BVCS Projects\Sample\bin\Debug\Sample.pdb
+E:\Compucamp 2017\CC_C#\BVCS Projects\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+E:\Compucamp 2017\CC_C#\BVCS Projects\Sample\obj\Debug\Sample.Form1.resources
+E:\Compucamp 2017\CC_C#\BVCS Projects\Sample\obj\Debug\Sample.Properties.Resources.resources
+E:\Compucamp 2017\CC_C#\BVCS Projects\Sample\obj\Debug\Sample.csproj.GenerateResource.Cache

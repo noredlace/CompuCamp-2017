@@ -1,0 +1,20 @@
+C:\BeginVBE\BVBE Projects\RGBColors\obj\Debug\RGBColors.exe
+C:\BeginVBE\BVBE Projects\RGBColors\obj\Debug\RGBColors.xml
+C:\BeginVBE\BVBE Projects\RGBColors\obj\Debug\RGBColors.pdb
+C:\BeginVBE\BVBE Projects\RGBColors\bin\Debug\RGBColors.exe
+C:\BeginVBE\BVBE Projects\RGBColors\bin\Debug\RGBColors.pdb
+C:\BeginVBE\BVBE Projects\RGBColors\bin\Debug\RGBColors.xml
+C:\BeginVBE\BVBE Projects\RGBColors\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVBE\BVBE Projects\RGBColors\obj\Debug\RGBColors.Form1.resources
+C:\BeginVBE\BVBE Projects\RGBColors\obj\Debug\RGBColors.Resources.resources
+C:\BeginVBE\BVBE Projects\RGBColors\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVBE\BVBE Projects\RGBColors\obj\Debug\GenerateResource.write.1.tlog
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\RGBColors\obj\Debug\RGBColors.exe
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\RGBColors\obj\Debug\RGBColors.xml
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\RGBColors\obj\Debug\RGBColors.pdb
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\RGBColors\bin\Debug\RGBColors.exe
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\RGBColors\bin\Debug\RGBColors.pdb
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\RGBColors\bin\Debug\RGBColors.xml
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\RGBColors\obj\Debug\RGBColors.Form1.resources
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\RGBColors\obj\Debug\RGBColors.Resources.resources
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\RGBColors\obj\Debug\RGBColors.vbproj.GenerateResource.Cache

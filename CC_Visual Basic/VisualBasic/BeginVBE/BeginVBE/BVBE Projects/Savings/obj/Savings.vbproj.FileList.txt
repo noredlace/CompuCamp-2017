@@ -1,0 +1,10 @@
+obj\Debug\Savings.exe
+obj\Debug\Savings.xml
+obj\Debug\Savings.pdb
+bin\Debug\Savings.exe
+bin\Debug\Savings.pdb
+bin\Debug\Savings.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Savings.Form1.resources
+obj\Debug\Savings.Resources.resources
+obj\Debug\Savings.vbproj.GenerateResource.Cache

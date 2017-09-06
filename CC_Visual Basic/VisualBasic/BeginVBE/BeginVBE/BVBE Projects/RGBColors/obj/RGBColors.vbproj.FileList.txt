@@ -1,0 +1,10 @@
+obj\Debug\RGBColors.exe
+obj\Debug\RGBColors.xml
+obj\Debug\RGBColors.pdb
+bin\Debug\RGBColors.exe
+bin\Debug\RGBColors.pdb
+bin\Debug\RGBColors.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RGBColors.Form1.resources
+obj\Debug\RGBColors.Resources.resources
+obj\Debug\RGBColors.vbproj.GenerateResource.Cache

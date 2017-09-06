@@ -1,0 +1,10 @@
+obj\Debug\TicTacToe.exe
+obj\Debug\TicTacToe.xml
+obj\Debug\TicTacToe.pdb
+bin\Debug\TicTacToe.exe
+bin\Debug\TicTacToe.pdb
+bin\Debug\TicTacToe.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TicTacToe.Form1.resources
+obj\Debug\TicTacToe.Resources.resources
+obj\Debug\TicTacToe.vbproj.GenerateResource.Cache

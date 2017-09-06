@@ -1,0 +1,16 @@
+C:\BeginVCSE\BVCSE Projects\Decode\obj\Debug\Decode.exe
+C:\BeginVCSE\BVCSE Projects\Decode\obj\Debug\Decode.pdb
+C:\BeginVCSE\BVCSE Projects\Decode\bin\Debug\Decode.exe
+C:\BeginVCSE\BVCSE Projects\Decode\bin\Debug\Decode.pdb
+C:\BeginVCSE\BVCSE Projects\Decode\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVCSE\BVCSE Projects\Decode\obj\Debug\Decode.Form1.resources
+C:\BeginVCSE\BVCSE Projects\Decode\obj\Debug\Decode.Properties.Resources.resources
+C:\BeginVCSE\BVCSE Projects\Decode\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVCSE\BVCSE Projects\Decode\obj\Debug\GenerateResource.write.1.tlog
+C:\BeginVCS\BVCS Projects\Decode\obj\Debug\Decode.exe
+C:\BeginVCS\BVCS Projects\Decode\obj\Debug\Decode.pdb
+C:\BeginVCS\BVCS Projects\Decode\bin\Debug\Decode.exe
+C:\BeginVCS\BVCS Projects\Decode\bin\Debug\Decode.pdb
+C:\BeginVCS\BVCS Projects\Decode\obj\Debug\Decode.Form1.resources
+C:\BeginVCS\BVCS Projects\Decode\obj\Debug\Decode.Properties.Resources.resources
+C:\BeginVCS\BVCS Projects\Decode\obj\Debug\Decode.csproj.GenerateResource.Cache

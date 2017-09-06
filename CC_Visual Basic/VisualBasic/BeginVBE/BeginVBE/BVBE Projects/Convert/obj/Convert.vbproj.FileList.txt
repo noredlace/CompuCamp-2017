@@ -1,0 +1,10 @@
+obj\Debug\Convert.exe
+obj\Debug\Convert.xml
+obj\Debug\Convert.pdb
+bin\Debug\Convert.exe
+bin\Debug\Convert.pdb
+bin\Debug\Convert.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Convert.Form1.resources
+obj\Debug\Convert.Resources.resources
+obj\Debug\Convert.vbproj.GenerateResource.Cache

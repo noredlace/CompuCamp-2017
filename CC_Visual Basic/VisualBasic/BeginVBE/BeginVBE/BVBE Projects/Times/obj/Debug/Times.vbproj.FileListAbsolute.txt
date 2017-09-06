@@ -1,0 +1,11 @@
+C:\BeginVBE\BVBE Projects\Times\obj\Debug\Times.exe
+C:\BeginVBE\BVBE Projects\Times\obj\Debug\Times.xml
+C:\BeginVBE\BVBE Projects\Times\obj\Debug\Times.pdb
+C:\BeginVBE\BVBE Projects\Times\bin\Debug\Times.exe
+C:\BeginVBE\BVBE Projects\Times\bin\Debug\Times.pdb
+C:\BeginVBE\BVBE Projects\Times\bin\Debug\Times.xml
+C:\BeginVBE\BVBE Projects\Times\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVBE\BVBE Projects\Times\obj\Debug\Times.Form1.resources
+C:\BeginVBE\BVBE Projects\Times\obj\Debug\Times.Resources.resources
+C:\BeginVBE\BVBE Projects\Times\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVBE\BVBE Projects\Times\obj\Debug\GenerateResource.write.1.tlog

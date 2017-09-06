@@ -1,0 +1,24 @@
+C:\BeginVCSE\BVCSE Projects\CardWars\obj\Debug\CardWars.exe
+C:\BeginVCSE\BVCSE Projects\CardWars\obj\Debug\CardWars.pdb
+C:\BeginVCSE\BVCSE Projects\CardWars\bin\Debug\CardWars.exe
+C:\BeginVCSE\BVCSE Projects\CardWars\bin\Debug\CardWars.pdb
+C:\BeginVCSE\BVCSE Projects\CardWars\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVCSE\BVCSE Projects\CardWars\obj\Debug\CardWars.Form1.resources
+C:\BeginVCSE\BVCSE Projects\CardWars\obj\Debug\CardWars.Properties.Resources.resources
+C:\BeginVCSE\BVCSE Projects\CardWars\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVCSE\BVCSE Projects\CardWars\obj\Debug\GenerateResource.write.1.tlog
+C:\BeginVCS\BVCS Projects\CardWars\obj\Debug\CardWars.exe
+C:\BeginVCS\BVCS Projects\CardWars\obj\Debug\CardWars.pdb
+C:\BeginVCS\BVCS Projects\CardWars\bin\Debug\CardWars.exe
+C:\BeginVCS\BVCS Projects\CardWars\bin\Debug\CardWars.pdb
+C:\BeginVCS\BVCS Projects\CardWars\obj\Debug\CardWars.Form1.resources
+C:\BeginVCS\BVCS Projects\CardWars\obj\Debug\CardWars.Properties.Resources.resources
+C:\BeginVCS\BVCS Projects\CardWars\obj\Debug\CardWars.csproj.GenerateResource.Cache
+E:\Compucamp 2017\CC_C#\BVCS Projects\CardWars\obj\Debug\CardWars.exe
+E:\Compucamp 2017\CC_C#\BVCS Projects\CardWars\obj\Debug\CardWars.pdb
+E:\Compucamp 2017\CC_C#\BVCS Projects\CardWars\bin\Debug\CardWars.exe
+E:\Compucamp 2017\CC_C#\BVCS Projects\CardWars\bin\Debug\CardWars.pdb
+E:\Compucamp 2017\CC_C#\BVCS Projects\CardWars\obj\Debug\CardWars.csprojResolveAssemblyReference.cache
+E:\Compucamp 2017\CC_C#\BVCS Projects\CardWars\obj\Debug\CardWars.Form1.resources
+E:\Compucamp 2017\CC_C#\BVCS Projects\CardWars\obj\Debug\CardWars.Properties.Resources.resources
+E:\Compucamp 2017\CC_C#\BVCS Projects\CardWars\obj\Debug\CardWars.csproj.GenerateResource.Cache

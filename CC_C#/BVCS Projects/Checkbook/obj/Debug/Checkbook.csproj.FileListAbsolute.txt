@@ -1,0 +1,16 @@
+C:\BeginVCSE\BVCSE Projects\Checkbook\obj\Debug\Checkbook.exe
+C:\BeginVCSE\BVCSE Projects\Checkbook\obj\Debug\Checkbook.pdb
+C:\BeginVCSE\BVCSE Projects\Checkbook\bin\Debug\Checkbook.exe
+C:\BeginVCSE\BVCSE Projects\Checkbook\bin\Debug\Checkbook.pdb
+C:\BeginVCSE\BVCSE Projects\Checkbook\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVCSE\BVCSE Projects\Checkbook\obj\Debug\Checkbook.Form1.resources
+C:\BeginVCSE\BVCSE Projects\Checkbook\obj\Debug\Checkbook.Properties.Resources.resources
+C:\BeginVCSE\BVCSE Projects\Checkbook\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVCSE\BVCSE Projects\Checkbook\obj\Debug\GenerateResource.write.1.tlog
+C:\BeginVCS\BVCS Projects\Checkbook\obj\Debug\Checkbook.exe
+C:\BeginVCS\BVCS Projects\Checkbook\obj\Debug\Checkbook.pdb
+C:\BeginVCS\BVCS Projects\Checkbook\bin\Debug\Checkbook.exe
+C:\BeginVCS\BVCS Projects\Checkbook\bin\Debug\Checkbook.pdb
+C:\BeginVCS\BVCS Projects\Checkbook\obj\Debug\Checkbook.Form1.resources
+C:\BeginVCS\BVCS Projects\Checkbook\obj\Debug\Checkbook.Properties.Resources.resources
+C:\BeginVCS\BVCS Projects\Checkbook\obj\Debug\Checkbook.csproj.GenerateResource.Cache

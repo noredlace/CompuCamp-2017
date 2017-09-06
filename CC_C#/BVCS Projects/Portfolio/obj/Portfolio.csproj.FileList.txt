@@ -1,0 +1,7 @@
+obj\Debug\Portfolio.exe
+obj\Debug\Portfolio.pdb
+.\bin\Debug\Portfolio.exe
+.\bin\Debug\Portfolio.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Portfolio.Properties.Resources.resources
+obj\Debug\Portfolio.csproj.GenerateResource.Cache

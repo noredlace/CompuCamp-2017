@@ -1,0 +1,31 @@
+C:\BeginVBE\BVBE Projects\Sample\obj\Debug\Sample.exe
+C:\BeginVBE\BVBE Projects\Sample\obj\Debug\Sample.xml
+C:\BeginVBE\BVBE Projects\Sample\obj\Debug\Sample.pdb
+C:\BeginVBE\BVBE Projects\Sample\bin\Debug\Sample.exe
+C:\BeginVBE\BVBE Projects\Sample\bin\Debug\Sample.pdb
+C:\BeginVBE\BVBE Projects\Sample\bin\Debug\Sample.xml
+C:\BeginVBE\BVBE Projects\Sample\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVBE\BVBE Projects\Sample\obj\Debug\Sample.Form1.resources
+C:\BeginVBE\BVBE Projects\Sample\obj\Debug\Sample.Resources.resources
+C:\BeginVBE\BVBE Projects\Sample\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVBE\BVBE Projects\Sample\obj\Debug\GenerateResource.write.1.tlog
+D:\Users\New folder\Compucamp 2017\ej dropboix\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sample\obj\Debug\Sample.exe
+D:\Users\New folder\Compucamp 2017\ej dropboix\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sample\obj\Debug\Sample.xml
+D:\Users\New folder\Compucamp 2017\ej dropboix\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sample\obj\Debug\Sample.pdb
+D:\Users\New folder\Compucamp 2017\ej dropboix\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sample\bin\Debug\Sample.exe
+D:\Users\New folder\Compucamp 2017\ej dropboix\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sample\bin\Debug\Sample.pdb
+D:\Users\New folder\Compucamp 2017\ej dropboix\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sample\bin\Debug\Sample.xml
+D:\Users\New folder\Compucamp 2017\ej dropboix\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sample\obj\Debug\Sample.vbprojResolveAssemblyReference.cache
+D:\Users\New folder\Compucamp 2017\ej dropboix\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sample\obj\Debug\Sample.Form1.resources
+D:\Users\New folder\Compucamp 2017\ej dropboix\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sample\obj\Debug\Sample.Resources.resources
+D:\Users\New folder\Compucamp 2017\ej dropboix\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sample\obj\Debug\Sample.vbproj.GenerateResource.Cache
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sample\obj\Debug\Sample.exe
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sample\obj\Debug\Sample.xml
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sample\obj\Debug\Sample.pdb
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sample\bin\Debug\Sample.exe
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sample\bin\Debug\Sample.pdb
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sample\bin\Debug\Sample.xml
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sample\obj\Debug\Sample.vbprojResolveAssemblyReference.cache
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sample\obj\Debug\Sample.Form1.resources
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sample\obj\Debug\Sample.Resources.resources
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Sample\obj\Debug\Sample.vbproj.GenerateResource.Cache

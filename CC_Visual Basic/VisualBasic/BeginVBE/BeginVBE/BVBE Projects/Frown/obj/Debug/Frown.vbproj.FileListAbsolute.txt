@@ -1,0 +1,11 @@
+C:\BeginVBE\BVBE Projects\Frown\obj\Debug\Frown.exe
+C:\BeginVBE\BVBE Projects\Frown\obj\Debug\Frown.xml
+C:\BeginVBE\BVBE Projects\Frown\obj\Debug\Frown.pdb
+C:\BeginVBE\BVBE Projects\Frown\bin\Debug\Frown.exe
+C:\BeginVBE\BVBE Projects\Frown\bin\Debug\Frown.pdb
+C:\BeginVBE\BVBE Projects\Frown\bin\Debug\Frown.xml
+C:\BeginVBE\BVBE Projects\Frown\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVBE\BVBE Projects\Frown\obj\Debug\Frown.Form1.resources
+C:\BeginVBE\BVBE Projects\Frown\obj\Debug\Frown.Resources.resources
+C:\BeginVBE\BVBE Projects\Frown\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVBE\BVBE Projects\Frown\obj\Debug\GenerateResource.write.1.tlog

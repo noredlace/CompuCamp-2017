@@ -1,0 +1,11 @@
+C:\BeginVBE\BVBE Projects\Convert\obj\Debug\Convert.exe
+C:\BeginVBE\BVBE Projects\Convert\obj\Debug\Convert.xml
+C:\BeginVBE\BVBE Projects\Convert\obj\Debug\Convert.pdb
+C:\BeginVBE\BVBE Projects\Convert\bin\Debug\Convert.exe
+C:\BeginVBE\BVBE Projects\Convert\bin\Debug\Convert.pdb
+C:\BeginVBE\BVBE Projects\Convert\bin\Debug\Convert.xml
+C:\BeginVBE\BVBE Projects\Convert\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVBE\BVBE Projects\Convert\obj\Debug\Convert.Form1.resources
+C:\BeginVBE\BVBE Projects\Convert\obj\Debug\Convert.Resources.resources
+C:\BeginVBE\BVBE Projects\Convert\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVBE\BVBE Projects\Convert\obj\Debug\GenerateResource.write.1.tlog

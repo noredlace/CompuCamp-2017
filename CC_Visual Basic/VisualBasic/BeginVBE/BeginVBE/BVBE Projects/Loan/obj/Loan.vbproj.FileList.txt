@@ -1,0 +1,10 @@
+obj\Debug\Loan.exe
+obj\Debug\Loan.xml
+obj\Debug\Loan.pdb
+bin\Debug\Loan.exe
+bin\Debug\Loan.pdb
+bin\Debug\Loan.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Loan.Form1.resources
+obj\Debug\Loan.Resources.resources
+obj\Debug\Loan.vbproj.GenerateResource.Cache

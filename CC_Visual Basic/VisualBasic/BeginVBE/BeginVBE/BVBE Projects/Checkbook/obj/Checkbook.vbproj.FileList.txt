@@ -1,0 +1,10 @@
+obj\Debug\Checkbook.exe
+obj\Debug\Checkbook.xml
+obj\Debug\Checkbook.pdb
+bin\Debug\Checkbook.exe
+bin\Debug\Checkbook.pdb
+bin\Debug\Checkbook.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Checkbook.Form1.resources
+obj\Debug\Checkbook.Resources.resources
+obj\Debug\Checkbook.vbproj.GenerateResource.Cache

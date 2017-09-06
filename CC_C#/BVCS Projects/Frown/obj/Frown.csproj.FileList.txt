@@ -1,0 +1,7 @@
+obj\Debug\Frown.exe
+obj\Debug\Frown.pdb
+.\bin\Debug\Frown.exe
+.\bin\Debug\Frown.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Frown.Properties.Resources.resources
+obj\Debug\Frown.csproj.GenerateResource.Cache

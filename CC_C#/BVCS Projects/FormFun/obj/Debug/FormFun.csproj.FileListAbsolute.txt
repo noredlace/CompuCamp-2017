@@ -1,0 +1,16 @@
+C:\BeginVCSE\BVCSE Projects\FormFun\obj\Debug\FormFun.exe
+C:\BeginVCSE\BVCSE Projects\FormFun\obj\Debug\FormFun.pdb
+C:\BeginVCSE\BVCSE Projects\FormFun\bin\Debug\FormFun.exe
+C:\BeginVCSE\BVCSE Projects\FormFun\bin\Debug\FormFun.pdb
+C:\BeginVCSE\BVCSE Projects\FormFun\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVCSE\BVCSE Projects\FormFun\obj\Debug\FormFun.Properties.Resources.resources
+C:\BeginVCSE\BVCSE Projects\FormFun\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVCSE\BVCSE Projects\FormFun\obj\Debug\GenerateResource.write.1.tlog
+C:\BeginVCSE\BVCSE Projects\FormFun\obj\Debug\FormFun.Form1.resources
+C:\BeginVCS\BVCS Projects\FormFun\obj\Debug\FormFun.exe
+C:\BeginVCS\BVCS Projects\FormFun\obj\Debug\FormFun.pdb
+C:\BeginVCS\BVCS Projects\FormFun\bin\Debug\FormFun.exe
+C:\BeginVCS\BVCS Projects\FormFun\bin\Debug\FormFun.pdb
+C:\BeginVCS\BVCS Projects\FormFun\obj\Debug\FormFun.Form1.resources
+C:\BeginVCS\BVCS Projects\FormFun\obj\Debug\FormFun.Properties.Resources.resources
+C:\BeginVCS\BVCS Projects\FormFun\obj\Debug\FormFun.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+obj\Debug\GuessNumber.exe
+obj\Debug\GuessNumber.xml
+obj\Debug\GuessNumber.pdb
+bin\Debug\GuessNumber.exe
+bin\Debug\GuessNumber.pdb
+bin\Debug\GuessNumber.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GuessNumber.Form1.resources
+obj\Debug\GuessNumber.Resources.resources
+obj\Debug\GuessNumber.vbproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+C:\BeginVCSE\BVCSE Projects\Frown\obj\Debug\Frown.exe
+C:\BeginVCSE\BVCSE Projects\Frown\obj\Debug\Frown.pdb
+C:\BeginVCSE\BVCSE Projects\Frown\bin\Debug\Frown.exe
+C:\BeginVCSE\BVCSE Projects\Frown\bin\Debug\Frown.pdb
+C:\BeginVCSE\BVCSE Projects\Frown\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVCSE\BVCSE Projects\Frown\obj\Debug\Frown.Form1.resources
+C:\BeginVCSE\BVCSE Projects\Frown\obj\Debug\Frown.Properties.Resources.resources
+C:\BeginVCSE\BVCSE Projects\Frown\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVCSE\BVCSE Projects\Frown\obj\Debug\GenerateResource.write.1.tlog
+C:\BeginVCS\BVCS Projects\Frown\obj\Debug\Frown.exe
+C:\BeginVCS\BVCS Projects\Frown\obj\Debug\Frown.pdb
+C:\BeginVCS\BVCS Projects\Frown\bin\Debug\Frown.exe
+C:\BeginVCS\BVCS Projects\Frown\bin\Debug\Frown.pdb
+C:\BeginVCS\BVCS Projects\Frown\obj\Debug\Frown.Form1.resources
+C:\BeginVCS\BVCS Projects\Frown\obj\Debug\Frown.Properties.Resources.resources
+C:\BeginVCS\BVCS Projects\Frown\obj\Debug\Frown.csproj.GenerateResource.Cache

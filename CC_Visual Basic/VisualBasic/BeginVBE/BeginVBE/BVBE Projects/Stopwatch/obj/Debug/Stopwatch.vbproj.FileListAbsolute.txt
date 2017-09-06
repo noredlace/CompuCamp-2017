@@ -1,0 +1,21 @@
+C:\BeginVBE\BVBE Projects\Stopwatch\obj\Debug\Stopwatch.exe
+C:\BeginVBE\BVBE Projects\Stopwatch\obj\Debug\Stopwatch.xml
+C:\BeginVBE\BVBE Projects\Stopwatch\obj\Debug\Stopwatch.pdb
+C:\BeginVBE\BVBE Projects\Stopwatch\bin\Debug\Stopwatch.exe
+C:\BeginVBE\BVBE Projects\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\BeginVBE\BVBE Projects\Stopwatch\bin\Debug\Stopwatch.xml
+C:\BeginVBE\BVBE Projects\Stopwatch\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVBE\BVBE Projects\Stopwatch\obj\Debug\Stopwatch.Form1.resources
+C:\BeginVBE\BVBE Projects\Stopwatch\obj\Debug\Stopwatch.Resources.resources
+C:\BeginVBE\BVBE Projects\Stopwatch\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVBE\BVBE Projects\Stopwatch\obj\Debug\GenerateResource.write.1.tlog
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Stopwatch\obj\Debug\Stopwatch.exe
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Stopwatch\obj\Debug\Stopwatch.xml
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Stopwatch\obj\Debug\Stopwatch.pdb
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Stopwatch\bin\Debug\Stopwatch.exe
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Stopwatch\bin\Debug\Stopwatch.pdb
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Stopwatch\bin\Debug\Stopwatch.xml
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Stopwatch\obj\Debug\Stopwatch.vbprojResolveAssemblyReference.cache
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Stopwatch\obj\Debug\Stopwatch.Form1.resources
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Stopwatch\obj\Debug\Stopwatch.Resources.resources
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Stopwatch\obj\Debug\Stopwatch.vbproj.GenerateResource.Cache

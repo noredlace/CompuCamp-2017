@@ -1,0 +1,7 @@
+obj\Debug\Checkbook.exe
+obj\Debug\Checkbook.pdb
+.\bin\Debug\Checkbook.exe
+.\bin\Debug\Checkbook.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Checkbook.Properties.Resources.resources
+obj\Debug\Checkbook.csproj.GenerateResource.Cache

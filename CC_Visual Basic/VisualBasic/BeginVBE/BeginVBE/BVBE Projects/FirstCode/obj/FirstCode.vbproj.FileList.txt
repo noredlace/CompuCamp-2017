@@ -1,0 +1,10 @@
+obj\Debug\FirstCode.exe
+obj\Debug\FirstCode.xml
+obj\Debug\FirstCode.pdb
+bin\Debug\FirstCode.exe
+bin\Debug\FirstCode.pdb
+bin\Debug\FirstCode.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FirstCode.Form1.resources
+obj\Debug\FirstCode.Resources.resources
+obj\Debug\FirstCode.vbproj.GenerateResource.Cache

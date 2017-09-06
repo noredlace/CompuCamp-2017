@@ -1,0 +1,10 @@
+obj\Debug\Times.exe
+obj\Debug\Times.xml
+obj\Debug\Times.pdb
+bin\Debug\Times.exe
+bin\Debug\Times.pdb
+bin\Debug\Times.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Times.Form1.resources
+obj\Debug\Times.Resources.resources
+obj\Debug\Times.vbproj.GenerateResource.Cache

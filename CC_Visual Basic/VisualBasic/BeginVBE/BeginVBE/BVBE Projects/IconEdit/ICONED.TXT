@@ -1,0 +1,113 @@
+________________________________________________________________ 
+IconEdit(VERSION 1.00) Copyright (c) 1997 Ziff-Davis Publishing
+Company
+By Michael J. Mefford
+First Published in PC Magazine June 24, 1997
+________________________________________________________________ 
+About  IconEdit...
+
+IconEdit lets you create and modify 32x32 16-color icons the 
+type that are used on the Windows 95 desktop. Though Windows 
+uses icons of other sizes, it will rescale icons as needed. 
+So if you change the icon of a Desktop shortcut and then place 
+it in your Start menu, you will see a scaled down, 16x16 version 
+of it in the Start menu.
+
+If you change the icon for a Windows program, the new icon will 
+only be visible within Explorer (i.e., on your desktop or in 
+your Start menu). When you actually run the program, the 
+original icon compiled with the program will appear on the 
+taskbar or in the tray. (DOS programs will use the new icon 
+because there is no icon embedded within the executable.) 
+The only way to get a Windows program to use the new icon 
+is to recompile it with the new icon, or use a resource editor 
+such as Borland's Resource Workshop.
+
+USAGE:
+
+To install IconEdit, copy the program files ICONEDIT.EXE and 
+ICONEDIT.HLP to a subdirectory on your hard disk, and create 
+an icon for IconEdit in your shell. When you first launch 
+IconEdit, you'll see a toolbar on the left with an empty 
+editing window to the right. Select File|New to create a new 
+icon, or File|Open to load an existing icon for editing. 
+You can save an icon you've edited by clicking the diskette 
+button at the top of the tool bar or by selecting Save in 
+the File menu. If you you obtained the icon from within 
+an .EXE or .DLL file, it will be saved as an icon file 
+(.ICO) and not back into the file from which you 
+obtained it.
+
+The editing window displays two representations of the 
+icon: a large zoomed-in square that's eight times bigger than 
+the actual icon, and a small square to its right that's 
+actual size. The zoomed square is where the editing takes 
+place. New icons appear as solid green with a black square 
+surrounding each pixel representation. The pixels are, of 
+course, eight times actual size like the square itself for 
+ease of editing. The green color is not actually the starting
+color of the icon, but instead represents the transparent 
+"color".
+
+An icon is a bitmap with two additional special properties. 
+Pixels of an icon can not only be a specific color; they also 
+can be transparent or screen reverse color. A transparent 
+pixel lets the background color of whatever the icon is over 
+show through. A reverse screen color pixel takes on the 
+opposite color of whatever the icon is over. Both IconEdit's 
+large editing square and the actual icon sized square are 
+ordinary bitmaps without transparent or reverse screen color 
+capabilities. 
+
+The display of transparency and reverse screen color during 
+editing would cause a substantial performance hit, so 
+IconEdit instead substitutes fixed colors for transparent and 
+reverse screen colors. IconEdit uses dark green in the 
+editing bitmap to represent transparency, and red to 
+represent reverse color. You can see transparent and reverse 
+color by selecting Test Icon from the Icon menu. In the test 
+icon window that appears you'll see the icon as a true icon, 
+and you can select different window colors to see how the 
+icon looks against different color backgrounds.
+
+The two large color squares right under the tools are the 
+current colors for the left and right mouse buttons, 
+respectively. When you launch IconEdit, the left mouse button 
+color is black and the right mouse button color is white. 
+If you click with the left mouse button on a pixel with the 
+pencil tool, for example, the pixel will turn black. Click 
+with the right mouse button and the pixel will turn white. 
+To change the default colors, click on one of the 16 colors 
+in the palette just below the current color boxes with either 
+the left or right mouse button. Clicking on a palette color 
+with the left button will change the left button color and a 
+right button click will change the right button color.
+
+The tool bar consists of eight tools: capture, pencil, fill, 
+line, hollow and filled rectangle, and hollow and filled 
+ellipse. These will be familiar to anyone who has used a 
+paint program. The default tool when you start editing an 
+icon is the pencil, since this is the tool you'll probably 
+use the most. The pencil let's you color one pixel at a time. 
+To change a pixel simply place the point of the pencil cursor
+over a pixel in the big editing square and click. You can 
+pencil-draw several pixels at once by dragging the pencil 
+over an area.
+
+Support for IconEdit:
+Support for the free utilities offered by PC Magazine can 
+be obtained electronically in the discussion area of 
+PC Magazine's Web site. Go to the 
+URL http://www.pcmag.com/discuss.htm/ and select the 
+Utilities area. You can also access the Utilities discussion 
+area from the utility's download page. The authors of current 
+utilities generally monitor the discussion area every day. 
+You may find an answer to your question simply by reading
+the messages previously posted. If the author is not 
+available and you have a question that the sysops can't 
+answer, the editor of the Utilities column, who also checks 
+the area each day, will contact the author for you.
+
+Rick Knoblaugh is a systems programmer and a frequent 
+contributor to PC Magazine. 
+_____________________________________________________________

@@ -1,0 +1,10 @@
+obj\Debug\Blackboard.exe
+obj\Debug\Blackboard.xml
+obj\Debug\Blackboard.pdb
+bin\Debug\Blackboard.exe
+bin\Debug\Blackboard.pdb
+bin\Debug\Blackboard.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Blackboard.Form1.resources
+obj\Debug\Blackboard.Resources.resources
+obj\Debug\Blackboard.vbproj.GenerateResource.Cache

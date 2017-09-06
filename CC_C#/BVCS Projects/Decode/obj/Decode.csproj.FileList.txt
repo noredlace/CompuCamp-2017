@@ -1,0 +1,7 @@
+obj\Debug\Decode.exe
+obj\Debug\Decode.pdb
+.\bin\Debug\Decode.exe
+.\bin\Debug\Decode.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Decode.Properties.Resources.resources
+obj\Debug\Decode.csproj.GenerateResource.Cache

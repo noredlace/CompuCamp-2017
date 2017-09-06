@@ -1,0 +1,10 @@
+bin\Debug\Frown.exe
+bin\Debug\Frown.pdb
+bin\Debug\Frown.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Frown.Form1.resources
+obj\Debug\Frown.Resources.resources
+obj\Debug\Frown.vbproj.GenerateResource.Cache
+obj\Debug\Frown.exe
+obj\Debug\Frown.xml
+obj\Debug\Frown.pdb

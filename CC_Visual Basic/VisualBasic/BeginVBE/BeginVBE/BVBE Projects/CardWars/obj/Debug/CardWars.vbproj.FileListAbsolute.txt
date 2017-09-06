@@ -1,0 +1,21 @@
+C:\BeginVBE\BVBE Projects\CardWars\obj\Debug\CardWars.exe
+C:\BeginVBE\BVBE Projects\CardWars\obj\Debug\CardWars.xml
+C:\BeginVBE\BVBE Projects\CardWars\obj\Debug\CardWars.pdb
+C:\BeginVBE\BVBE Projects\CardWars\bin\Debug\CardWars.exe
+C:\BeginVBE\BVBE Projects\CardWars\bin\Debug\CardWars.pdb
+C:\BeginVBE\BVBE Projects\CardWars\bin\Debug\CardWars.xml
+C:\BeginVBE\BVBE Projects\CardWars\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVBE\BVBE Projects\CardWars\obj\Debug\CardWars.Form1.resources
+C:\BeginVBE\BVBE Projects\CardWars\obj\Debug\CardWars.Resources.resources
+C:\BeginVBE\BVBE Projects\CardWars\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVBE\BVBE Projects\CardWars\obj\Debug\GenerateResource.write.1.tlog
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\CardWars\obj\Debug\CardWars.exe
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\CardWars\obj\Debug\CardWars.xml
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\CardWars\obj\Debug\CardWars.pdb
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\CardWars\bin\Debug\CardWars.exe
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\CardWars\bin\Debug\CardWars.pdb
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\CardWars\bin\Debug\CardWars.xml
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\CardWars\obj\Debug\CardWars.vbprojResolveAssemblyReference.cache
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\CardWars\obj\Debug\CardWars.Form1.resources
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\CardWars\obj\Debug\CardWars.Resources.resources
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\CardWars\obj\Debug\CardWars.vbproj.GenerateResource.Cache

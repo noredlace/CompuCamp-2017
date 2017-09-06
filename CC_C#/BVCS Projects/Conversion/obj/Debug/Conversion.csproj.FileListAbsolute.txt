@@ -1,0 +1,16 @@
+C:\BeginVCSE\BVCSE Projects\Conversion\obj\Debug\Conversion.exe
+C:\BeginVCSE\BVCSE Projects\Conversion\obj\Debug\Conversion.pdb
+C:\BeginVCSE\BVCSE Projects\Conversion\bin\Debug\Conversion.exe
+C:\BeginVCSE\BVCSE Projects\Conversion\bin\Debug\Conversion.pdb
+C:\BeginVCSE\BVCSE Projects\Conversion\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVCSE\BVCSE Projects\Conversion\obj\Debug\Conversion.Form1.resources
+C:\BeginVCSE\BVCSE Projects\Conversion\obj\Debug\Conversion.Properties.Resources.resources
+C:\BeginVCSE\BVCSE Projects\Conversion\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVCSE\BVCSE Projects\Conversion\obj\Debug\GenerateResource.write.1.tlog
+C:\BeginVCS\BVCS Projects\Conversion\obj\Debug\Conversion.exe
+C:\BeginVCS\BVCS Projects\Conversion\obj\Debug\Conversion.pdb
+C:\BeginVCS\BVCS Projects\Conversion\bin\Debug\Conversion.exe
+C:\BeginVCS\BVCS Projects\Conversion\bin\Debug\Conversion.pdb
+C:\BeginVCS\BVCS Projects\Conversion\obj\Debug\Conversion.Form1.resources
+C:\BeginVCS\BVCS Projects\Conversion\obj\Debug\Conversion.Properties.Resources.resources
+C:\BeginVCS\BVCS Projects\Conversion\obj\Debug\Conversion.csproj.GenerateResource.Cache

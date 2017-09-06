@@ -1,0 +1,16 @@
+C:\BeginVCSE\BVCSE Projects\Loan\obj\Debug\Loan.exe
+C:\BeginVCSE\BVCSE Projects\Loan\obj\Debug\Loan.pdb
+C:\BeginVCSE\BVCSE Projects\Loan\bin\Debug\Loan.exe
+C:\BeginVCSE\BVCSE Projects\Loan\bin\Debug\Loan.pdb
+C:\BeginVCSE\BVCSE Projects\Loan\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVCSE\BVCSE Projects\Loan\obj\Debug\Loan.Form1.resources
+C:\BeginVCSE\BVCSE Projects\Loan\obj\Debug\Loan.Properties.Resources.resources
+C:\BeginVCSE\BVCSE Projects\Loan\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVCSE\BVCSE Projects\Loan\obj\Debug\GenerateResource.write.1.tlog
+C:\BeginVCS\BVCS Projects\Loan\obj\Debug\Loan.exe
+C:\BeginVCS\BVCS Projects\Loan\obj\Debug\Loan.pdb
+C:\BeginVCS\BVCS Projects\Loan\bin\Debug\Loan.exe
+C:\BeginVCS\BVCS Projects\Loan\bin\Debug\Loan.pdb
+C:\BeginVCS\BVCS Projects\Loan\obj\Debug\Loan.Form1.resources
+C:\BeginVCS\BVCS Projects\Loan\obj\Debug\Loan.Properties.Resources.resources
+C:\BeginVCS\BVCS Projects\Loan\obj\Debug\Loan.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+C:\BeginVBE\BVBE Projects\Pong\bin\Debug\Pong.exe
+C:\BeginVBE\BVBE Projects\Pong\bin\Debug\Pong.pdb
+C:\BeginVBE\BVBE Projects\Pong\bin\Debug\Pong.xml
+C:\BeginVBE\BVBE Projects\Pong\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVBE\BVBE Projects\Pong\obj\Debug\Pong.frmPong.resources
+C:\BeginVBE\BVBE Projects\Pong\obj\Debug\Pong.Resources.resources
+C:\BeginVBE\BVBE Projects\Pong\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVBE\BVBE Projects\Pong\obj\Debug\GenerateResource.write.1.tlog
+C:\BeginVBE\BVBE Projects\Pong\obj\Debug\Pong.exe
+C:\BeginVBE\BVBE Projects\Pong\obj\Debug\Pong.xml
+C:\BeginVBE\BVBE Projects\Pong\obj\Debug\Pong.pdb

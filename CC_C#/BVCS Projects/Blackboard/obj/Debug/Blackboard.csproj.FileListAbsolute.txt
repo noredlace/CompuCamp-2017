@@ -1,0 +1,16 @@
+C:\BeginVCSE\BVCSE Projects\Blackboard\obj\Debug\Blackboard.exe
+C:\BeginVCSE\BVCSE Projects\Blackboard\obj\Debug\Blackboard.pdb
+C:\BeginVCSE\BVCSE Projects\Blackboard\bin\Debug\Blackboard.exe
+C:\BeginVCSE\BVCSE Projects\Blackboard\bin\Debug\Blackboard.pdb
+C:\BeginVCSE\BVCSE Projects\Blackboard\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVCSE\BVCSE Projects\Blackboard\obj\Debug\Blackboard.Properties.Resources.resources
+C:\BeginVCSE\BVCSE Projects\Blackboard\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVCSE\BVCSE Projects\Blackboard\obj\Debug\GenerateResource.write.1.tlog
+C:\BeginVCSE\BVCSE Projects\Blackboard\obj\Debug\Blackboard.Form1.resources
+C:\BeginVCS\BVCS Projects\Blackboard\obj\Debug\Blackboard.exe
+C:\BeginVCS\BVCS Projects\Blackboard\obj\Debug\Blackboard.pdb
+C:\BeginVCS\BVCS Projects\Blackboard\bin\Debug\Blackboard.exe
+C:\BeginVCS\BVCS Projects\Blackboard\bin\Debug\Blackboard.pdb
+C:\BeginVCS\BVCS Projects\Blackboard\obj\Debug\Blackboard.Form1.resources
+C:\BeginVCS\BVCS Projects\Blackboard\obj\Debug\Blackboard.Properties.Resources.resources
+C:\BeginVCS\BVCS Projects\Blackboard\obj\Debug\Blackboard.csproj.GenerateResource.Cache

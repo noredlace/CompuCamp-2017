@@ -1,0 +1,20 @@
+C:\BeginVBE\BVBE Projects\Blackboard\obj\Debug\Blackboard.exe
+C:\BeginVBE\BVBE Projects\Blackboard\obj\Debug\Blackboard.xml
+C:\BeginVBE\BVBE Projects\Blackboard\obj\Debug\Blackboard.pdb
+C:\BeginVBE\BVBE Projects\Blackboard\bin\Debug\Blackboard.exe
+C:\BeginVBE\BVBE Projects\Blackboard\bin\Debug\Blackboard.pdb
+C:\BeginVBE\BVBE Projects\Blackboard\bin\Debug\Blackboard.xml
+C:\BeginVBE\BVBE Projects\Blackboard\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVBE\BVBE Projects\Blackboard\obj\Debug\Blackboard.Form1.resources
+C:\BeginVBE\BVBE Projects\Blackboard\obj\Debug\Blackboard.Resources.resources
+C:\BeginVBE\BVBE Projects\Blackboard\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVBE\BVBE Projects\Blackboard\obj\Debug\GenerateResource.write.1.tlog
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Blackboard\obj\Debug\Blackboard.exe
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Blackboard\obj\Debug\Blackboard.xml
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Blackboard\obj\Debug\Blackboard.pdb
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Blackboard\bin\Debug\Blackboard.exe
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Blackboard\bin\Debug\Blackboard.pdb
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Blackboard\bin\Debug\Blackboard.xml
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Blackboard\obj\Debug\Blackboard.Form1.resources
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Blackboard\obj\Debug\Blackboard.Resources.resources
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Blackboard\obj\Debug\Blackboard.vbproj.GenerateResource.Cache

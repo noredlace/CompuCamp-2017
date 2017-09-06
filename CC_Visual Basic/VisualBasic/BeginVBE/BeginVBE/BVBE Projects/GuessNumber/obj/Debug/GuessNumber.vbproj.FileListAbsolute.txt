@@ -1,0 +1,20 @@
+C:\BeginVBE\BVBE Projects\GuessNumber\obj\Debug\GuessNumber.exe
+C:\BeginVBE\BVBE Projects\GuessNumber\obj\Debug\GuessNumber.xml
+C:\BeginVBE\BVBE Projects\GuessNumber\obj\Debug\GuessNumber.pdb
+C:\BeginVBE\BVBE Projects\GuessNumber\bin\Debug\GuessNumber.exe
+C:\BeginVBE\BVBE Projects\GuessNumber\bin\Debug\GuessNumber.pdb
+C:\BeginVBE\BVBE Projects\GuessNumber\bin\Debug\GuessNumber.xml
+C:\BeginVBE\BVBE Projects\GuessNumber\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVBE\BVBE Projects\GuessNumber\obj\Debug\GuessNumber.Form1.resources
+C:\BeginVBE\BVBE Projects\GuessNumber\obj\Debug\GuessNumber.Resources.resources
+C:\BeginVBE\BVBE Projects\GuessNumber\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVBE\BVBE Projects\GuessNumber\obj\Debug\GenerateResource.write.1.tlog
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\GuessNumber\obj\Debug\GuessNumber.exe
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\GuessNumber\obj\Debug\GuessNumber.xml
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\GuessNumber\obj\Debug\GuessNumber.pdb
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\GuessNumber\bin\Debug\GuessNumber.exe
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\GuessNumber\bin\Debug\GuessNumber.pdb
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\GuessNumber\bin\Debug\GuessNumber.xml
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\GuessNumber\obj\Debug\GuessNumber.Form1.resources
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\GuessNumber\obj\Debug\GuessNumber.Resources.resources
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\GuessNumber\obj\Debug\GuessNumber.vbproj.GenerateResource.Cache

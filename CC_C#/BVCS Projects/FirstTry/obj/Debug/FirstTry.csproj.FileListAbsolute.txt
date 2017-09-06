@@ -1,0 +1,8 @@
+C:\BeginVCS\BVCS Projects\FirstTry\bin\Debug\FirstTry.exe.config
+C:\BeginVCS\BVCS Projects\FirstTry\bin\Debug\FirstTry.exe
+C:\BeginVCS\BVCS Projects\FirstTry\bin\Debug\FirstTry.pdb
+C:\BeginVCS\BVCS Projects\FirstTry\obj\Debug\FirstTry.csprojResolveAssemblyReference.cache
+C:\BeginVCS\BVCS Projects\FirstTry\obj\Debug\FirstTry.Properties.Resources.resources
+C:\BeginVCS\BVCS Projects\FirstTry\obj\Debug\FirstTry.csproj.GenerateResource.Cache
+C:\BeginVCS\BVCS Projects\FirstTry\obj\Debug\FirstTry.exe
+C:\BeginVCS\BVCS Projects\FirstTry\obj\Debug\FirstTry.pdb

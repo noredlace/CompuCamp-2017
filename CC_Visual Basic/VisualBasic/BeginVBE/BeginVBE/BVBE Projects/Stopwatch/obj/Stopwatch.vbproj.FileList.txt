@@ -1,0 +1,10 @@
+obj\Debug\Stopwatch.exe
+obj\Debug\Stopwatch.xml
+obj\Debug\Stopwatch.pdb
+bin\Debug\Stopwatch.exe
+bin\Debug\Stopwatch.pdb
+bin\Debug\Stopwatch.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Stopwatch.Form1.resources
+obj\Debug\Stopwatch.Resources.resources
+obj\Debug\Stopwatch.vbproj.GenerateResource.Cache

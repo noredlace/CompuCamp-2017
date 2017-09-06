@@ -1,0 +1,7 @@
+obj\Debug\Stopwatch.exe
+obj\Debug\Stopwatch.pdb
+.\bin\Debug\Stopwatch.exe
+.\bin\Debug\Stopwatch.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Stopwatch.Properties.Resources.resources
+obj\Debug\Stopwatch.csproj.GenerateResource.Cache

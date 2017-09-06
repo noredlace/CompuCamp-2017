@@ -1,0 +1,16 @@
+C:\BeginVCSE\BVCSE Projects\Savings\obj\Debug\Savings.exe
+C:\BeginVCSE\BVCSE Projects\Savings\obj\Debug\Savings.pdb
+C:\BeginVCSE\BVCSE Projects\Savings\bin\Debug\Savings.exe
+C:\BeginVCSE\BVCSE Projects\Savings\bin\Debug\Savings.pdb
+C:\BeginVCSE\BVCSE Projects\Savings\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVCSE\BVCSE Projects\Savings\obj\Debug\Savings.Form1.resources
+C:\BeginVCSE\BVCSE Projects\Savings\obj\Debug\Savings.Properties.Resources.resources
+C:\BeginVCSE\BVCSE Projects\Savings\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVCSE\BVCSE Projects\Savings\obj\Debug\GenerateResource.write.1.tlog
+C:\BeginVCS\BVCS Projects\Savings\obj\Debug\Savings.exe
+C:\BeginVCS\BVCS Projects\Savings\obj\Debug\Savings.pdb
+C:\BeginVCS\BVCS Projects\Savings\bin\Debug\Savings.exe
+C:\BeginVCS\BVCS Projects\Savings\bin\Debug\Savings.pdb
+C:\BeginVCS\BVCS Projects\Savings\obj\Debug\Savings.Form1.resources
+C:\BeginVCS\BVCS Projects\Savings\obj\Debug\Savings.Properties.Resources.resources
+C:\BeginVCS\BVCS Projects\Savings\obj\Debug\Savings.csproj.GenerateResource.Cache

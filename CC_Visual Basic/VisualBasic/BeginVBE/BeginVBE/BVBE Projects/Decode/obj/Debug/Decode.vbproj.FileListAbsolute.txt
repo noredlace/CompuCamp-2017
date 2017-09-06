@@ -1,0 +1,11 @@
+C:\BeginVBE\BVBE Projects\Decode\obj\Debug\Decode.exe
+C:\BeginVBE\BVBE Projects\Decode\obj\Debug\Decode.xml
+C:\BeginVBE\BVBE Projects\Decode\obj\Debug\Decode.pdb
+C:\BeginVBE\BVBE Projects\Decode\bin\Debug\Decode.exe
+C:\BeginVBE\BVBE Projects\Decode\bin\Debug\Decode.pdb
+C:\BeginVBE\BVBE Projects\Decode\bin\Debug\Decode.xml
+C:\BeginVBE\BVBE Projects\Decode\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVBE\BVBE Projects\Decode\obj\Debug\Decode.Form1.resources
+C:\BeginVBE\BVBE Projects\Decode\obj\Debug\Decode.Resources.resources
+C:\BeginVBE\BVBE Projects\Decode\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVBE\BVBE Projects\Decode\obj\Debug\GenerateResource.write.1.tlog

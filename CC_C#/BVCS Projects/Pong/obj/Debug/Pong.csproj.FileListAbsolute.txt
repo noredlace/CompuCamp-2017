@@ -1,0 +1,9 @@
+C:\BeginVCSE\BVCSE Projects\Pong\obj\Debug\Pong.exe
+C:\BeginVCSE\BVCSE Projects\Pong\obj\Debug\Pong.pdb
+C:\BeginVCSE\BVCSE Projects\Pong\bin\Debug\Pong.exe
+C:\BeginVCSE\BVCSE Projects\Pong\bin\Debug\Pong.pdb
+C:\BeginVCSE\BVCSE Projects\Pong\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVCSE\BVCSE Projects\Pong\obj\Debug\Pong.Form1.resources
+C:\BeginVCSE\BVCSE Projects\Pong\obj\Debug\Pong.Properties.Resources.resources
+C:\BeginVCSE\BVCSE Projects\Pong\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVCSE\BVCSE Projects\Pong\obj\Debug\GenerateResource.write.1.tlog

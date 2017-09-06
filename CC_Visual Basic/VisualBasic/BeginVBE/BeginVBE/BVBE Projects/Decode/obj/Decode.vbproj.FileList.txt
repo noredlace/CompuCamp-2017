@@ -1,0 +1,10 @@
+obj\Debug\Decode.exe
+obj\Debug\Decode.xml
+obj\Debug\Decode.pdb
+bin\Debug\Decode.exe
+bin\Debug\Decode.pdb
+bin\Debug\Decode.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Decode.Form1.resources
+obj\Debug\Decode.Resources.resources
+obj\Debug\Decode.vbproj.GenerateResource.Cache

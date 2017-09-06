@@ -1,0 +1,21 @@
+C:\BeginVCSE\BVCSE Projects\BeachBalls\obj\Debug\BeachBalls.exe
+C:\BeginVCSE\BVCSE Projects\BeachBalls\obj\Debug\BeachBalls.pdb
+C:\BeginVCSE\BVCSE Projects\BeachBalls\bin\Debug\BeachBalls.exe
+C:\BeginVCSE\BVCSE Projects\BeachBalls\bin\Debug\BeachBalls.pdb
+C:\BeginVCSE\BVCSE Projects\BeachBalls\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVCSE\BVCSE Projects\BeachBalls\obj\Debug\BeachBalls.Properties.Resources.resources
+C:\BeginVCSE\BVCSE Projects\BeachBalls\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVCSE\BVCSE Projects\BeachBalls\obj\Debug\GenerateResource.write.1.tlog
+C:\BeginVCS\BVCS Projects\BeachBalls\obj\Debug\BeachBalls.exe
+C:\BeginVCS\BVCS Projects\BeachBalls\obj\Debug\BeachBalls.pdb
+C:\BeginVCS\BVCS Projects\BeachBalls\bin\Debug\BeachBalls.exe
+C:\BeginVCS\BVCS Projects\BeachBalls\bin\Debug\BeachBalls.pdb
+C:\BeginVCS\BVCS Projects\BeachBalls\obj\Debug\BeachBalls.Properties.Resources.resources
+C:\BeginVCS\BVCS Projects\BeachBalls\obj\Debug\BeachBalls.csproj.GenerateResource.Cache
+E:\Compucamp 2017\CC_C#\BVCS Projects\BeachBalls\obj\Debug\BeachBalls.exe
+E:\Compucamp 2017\CC_C#\BVCS Projects\BeachBalls\obj\Debug\BeachBalls.pdb
+E:\Compucamp 2017\CC_C#\BVCS Projects\BeachBalls\bin\Debug\BeachBalls.exe
+E:\Compucamp 2017\CC_C#\BVCS Projects\BeachBalls\bin\Debug\BeachBalls.pdb
+E:\Compucamp 2017\CC_C#\BVCS Projects\BeachBalls\obj\Debug\BeachBalls.csprojResolveAssemblyReference.cache
+E:\Compucamp 2017\CC_C#\BVCS Projects\BeachBalls\obj\Debug\BeachBalls.Properties.Resources.resources
+E:\Compucamp 2017\CC_C#\BVCS Projects\BeachBalls\obj\Debug\BeachBalls.csproj.GenerateResource.Cache

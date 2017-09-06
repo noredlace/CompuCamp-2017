@@ -1,0 +1,21 @@
+C:\BeginVBE\BVBE Projects\BeachBalls\obj\Debug\BeachBalls.exe
+C:\BeginVBE\BVBE Projects\BeachBalls\obj\Debug\BeachBalls.xml
+C:\BeginVBE\BVBE Projects\BeachBalls\obj\Debug\BeachBalls.pdb
+C:\BeginVBE\BVBE Projects\BeachBalls\bin\Debug\BeachBalls.exe
+C:\BeginVBE\BVBE Projects\BeachBalls\bin\Debug\BeachBalls.pdb
+C:\BeginVBE\BVBE Projects\BeachBalls\bin\Debug\BeachBalls.xml
+C:\BeginVBE\BVBE Projects\BeachBalls\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVBE\BVBE Projects\BeachBalls\obj\Debug\BeachBalls.Form1.resources
+C:\BeginVBE\BVBE Projects\BeachBalls\obj\Debug\BeachBalls.Resources.resources
+C:\BeginVBE\BVBE Projects\BeachBalls\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVBE\BVBE Projects\BeachBalls\obj\Debug\GenerateResource.write.1.tlog
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\BeachBalls\obj\Debug\BeachBalls.exe
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\BeachBalls\obj\Debug\BeachBalls.xml
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\BeachBalls\obj\Debug\BeachBalls.pdb
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\BeachBalls\bin\Debug\BeachBalls.exe
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\BeachBalls\bin\Debug\BeachBalls.pdb
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\BeachBalls\bin\Debug\BeachBalls.xml
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\BeachBalls\obj\Debug\BeachBalls.vbprojResolveAssemblyReference.cache
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\BeachBalls\obj\Debug\BeachBalls.Form1.resources
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\BeachBalls\obj\Debug\BeachBalls.Resources.resources
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\BeachBalls\obj\Debug\BeachBalls.vbproj.GenerateResource.Cache

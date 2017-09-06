@@ -1,0 +1,21 @@
+C:\BeginVBE\BVBE Projects\Savings\obj\Debug\Savings.exe
+C:\BeginVBE\BVBE Projects\Savings\obj\Debug\Savings.xml
+C:\BeginVBE\BVBE Projects\Savings\obj\Debug\Savings.pdb
+C:\BeginVBE\BVBE Projects\Savings\bin\Debug\Savings.exe
+C:\BeginVBE\BVBE Projects\Savings\bin\Debug\Savings.pdb
+C:\BeginVBE\BVBE Projects\Savings\bin\Debug\Savings.xml
+C:\BeginVBE\BVBE Projects\Savings\obj\Debug\ResolveAssemblyReference.cache
+C:\BeginVBE\BVBE Projects\Savings\obj\Debug\Savings.Form1.resources
+C:\BeginVBE\BVBE Projects\Savings\obj\Debug\Savings.Resources.resources
+C:\BeginVBE\BVBE Projects\Savings\obj\Debug\GenerateResource.read.1.tlog
+C:\BeginVBE\BVBE Projects\Savings\obj\Debug\GenerateResource.write.1.tlog
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Savings\obj\Debug\Savings.exe
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Savings\obj\Debug\Savings.xml
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Savings\obj\Debug\Savings.pdb
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Savings\bin\Debug\Savings.exe
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Savings\bin\Debug\Savings.pdb
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Savings\bin\Debug\Savings.xml
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Savings\obj\Debug\Savings.vbprojResolveAssemblyReference.cache
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Savings\obj\Debug\Savings.Form1.resources
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Savings\obj\Debug\Savings.Resources.resources
+D:\Compucamp 2017\CC_Visual Basic\VisualBasic\BeginVBE\BeginVBE\BVBE Projects\Savings\obj\Debug\Savings.vbproj.GenerateResource.Cache
